@@ -8,5 +8,15 @@
 	float: left;
 }
 
-.lyrics{
+input{
+	width: 30%;
+    padding: 10px;
+    font-size: 21px;
+    /* border: 2px solid green; */
+    margin: 5px;
+
+}
+input[type=submit]{
+	background-color: green;
+	color: white;
 }
